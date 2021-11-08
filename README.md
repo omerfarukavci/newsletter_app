@@ -8,3 +8,4 @@ This newsletter application is made with Flask and SQLAlchemy.
 - Flask-WTForms is used for user forms and news forms.
 - Flask-Login is used for authentication & authorization.
 - Psycopg2 is used for PostgreSQL connection. 
+- Relevant tests were carried out. 
